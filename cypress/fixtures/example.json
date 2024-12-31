@@ -1,0 +1,6 @@
+{
+  "fileUpload": "a[href='file_upload.html']",
+  "chooseFileButton": "input[name = 'userfile']",
+  "docFile": "cv.pdf",
+  "sendFileButton": "input[type='submit']"
+}
